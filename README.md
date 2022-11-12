@@ -1,22 +1,14 @@
-# .github
-HeRoLab - Heterogeneous Robotics Research Lab at the University of Georgia
+## Welcome to AMASLAB at SUSTech
 
-Welcome to the Heterogeneous Robotics (HeRo) Research Lab at the Department of Computer Science, University of Georgia (UGA) in Athens, GA, USA. The lab is directed by Prof. Ramviyas Parasuraman.
+AMASLAB - Autonomous and Multi-Agent Systems Research Lab at the Southern University of Science and Technology（SUSTech）
 
-HeRo lab conducts experimental and application-oriented research in heterogeneous robotics systems of varying functionalities and mobility capabilities. Specifically, the current research focus are on multi-robot systems, wireless networks, intelligent & intuitive teleoperation, human-robot interfaces, robotics applied in nuclear, radioactive, rescue, disaster, and challenging environments, and machine learning applications to multi-agent systems.
+Contact:  [lid@mail.sustech.edu.cn (Li Dong)](mailto:lid@mail.sustech.edu.cn)
 
-Vision: Our vision is to capacitate autonomous heterogeneous multi-robot systems with intelligent, resilient, and robust methods for cooperation, communication, and interactions.
+
+Welcome to the Autonomous and Multi-Agent Systems (AMAS) Research Lab at the [Department of Electronic and Electrical Engineering](https://eee.sustech.edu.cn/), [Southern University of Science and Technology(SUSTech)](https://www.sustech.edu.cn/) in Shenzhen,  China. The lab is directed by [Prof. Zhiyun Lin](https://faculty.sustech.edu.cn/linzy/).
 
 We work on several challenging research areas outlined below.
 
-- Multi-robot systems – Control, Communications, Planning, Cooperation, and Coordination
+- Autonomous Smart System - Automation, Autonomy
+-  Multi-Agent Systems - Distributed Processing, Autonomy, Scalability, Real-time
 
-- Intelligent Teleoperation – Novel and Intuitive Interaction/Interfaces
-
-- Wireless Networked Robots – Predictions and Optimization
-
-- Rescue Robotics – Deployment and Application to Search and Rescue
-
-- Robotics in Nuclear, Radioactive, and Challenging Environments
-
-- Machine Learning Applications to Robotics and Multi-Agent Systems
